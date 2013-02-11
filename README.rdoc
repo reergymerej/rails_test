@@ -1,0 +1,4 @@
+= Playing with RoR
+
+# This isn't really anything.  I'm
+# just playing around with RoR.
